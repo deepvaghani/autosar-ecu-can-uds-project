@@ -189,10 +189,5 @@ Terminal 2:
 M.Sc. Automotive Software Engineering
 Technische Universität Chemnitz
 
----
-
-## ⭐ Acknowledgment
-
-This project is inspired by real-world automotive ECU communication systems and AUTOSAR architecture principles.
 
 ---
