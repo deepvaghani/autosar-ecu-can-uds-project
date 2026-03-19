@@ -1,0 +1,12 @@
+# Compiled files
+*.out
+*.o
+*.exe
+ecu1_app
+ecu2_app
+
+# OS files
+.DS_Store
+
+# Build folders
+build/
